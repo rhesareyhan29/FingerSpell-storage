@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fingerspell-storage",
+  "private_key_id": "51d36db274da9c080a4b3a30abaedfec2e5e53cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2isKG/mIAFK06\nhv1M0L6YkMV63r0fwxU6sVMwVgLid723QHahJPAgXryShlYAzTRYoO2UWFcupqnm\nAuuyc9ELdckhyttKlq4BYeg/VcXR4y835jt0a/2XoLixK2DZQ+10+U8ci6PklDEq\nOxgSCY0WRwKzIlBdPeo8UN7d4Nq14WzHi+RBkoCKqeIzdZC9E1cAoJPpr+x2K1ix\nNEFsGJnBjM1LFKPX5j6c/kkVeALTOV0dWqq3qmUEHgiI23F7F8rdblK5hXd+1kZG\nEGoPTUUaort4/2A+7Y+4Dkbvv59YQZ2xT1yG4ATdZy1611sWsJbJOj/M19oE8eKS\nkMAlgbTtAgMBAAECggEAAkN3j2OkJMrHgyGdY9B1gerO/Wu5qKUrTuOtW7y/+GhH\ntU1aqzuMBrq7V+MhOeKm3YUmrQo+D9ldOKRHS+/dDb6o1H8cIlv6oxBrEtimGqjY\niGGV0dHCU+5YRp96afdKVdhUP3mzzz0khu4zVDXuG/KcI/XZopkGneIwK/bX1Mgw\nxftvhaBNiCHPhVb+89Rg/p6hzd7Ukv4g+/Xgu8er0mtbTxrZryneSyjDOhklIL1E\n76E9BLaxOagAhiJiH6UkmrlwGJsWt2+918QDfS9z/iy2w9y9yjcm8QGIIh+JKTlr\nbjwGGxwG4qFPFB3EYNwYMnFqwaV7QIdOKbZQLtJaOQKBgQDtXSEIozTb9Ny+j2Ob\nPe/ezeGuS0UNr8INGOBJny1sfXFXB7bOBI6tC71hM4SbWfMo57R4fc+rSmZ6Oaik\nAQjHSZtumJbkyW+alB11hkZ2+NI6FHITvXpiBt8PIN07ohnKoKb+JLcqHsgRP2Ol\nowY6A5yYRv1X4/MZvSnWAvjEYwKBgQDE378Echv3MP6ZuR5B47utBAgOaYFpOeeE\neqfArRR2vYpujrWUgjW34p0wEHSXz+HsGoDSDq8QI5g1ORJhUEm82LFzjOxENcgh\nqjlVLm0gyFadWjT+thNCpKUX/t7Vt3FUv8QxS2/WweulIO8/cJOPAStzvGF4dyIO\n3acACcuabwKBgQDTXNhrjpklPFfMwHZb6L1OU1qhD5l/5IARlZMzO7EBKHrimpXn\nwhsicI/EnFF63JAwXpNPsAhaaTfzoqBO2jTs8NidlPbY556fsUDCRD0+97aLzWT/\nuvvdimzaVdNqpJ/+1SuepycLNLnG0gFzn0WOJ2UsHBrARtVUmCNG1QKcLQKBgHmW\nYeeB/cmFhcg0rv4sgq0RD1SvTlBJhbWo9s+lVT0cRFGRa41jeX+uwjt7/jYAGlxx\n5dtVXEMQaKF+NN7K8i9ieP2PLB/YQ1ifQ7da6+TSNcQKgS5KDs0a2Cdgrgi5uZGI\nucdj+pdcvocGNxwsD8XDCC37SwtWMD+UHt6ELi2bAoGAKSxM56+vQCNjM4iDut3P\nlypnyKWbIONngh97wqpZSmzEhneJjyQWGuwC2S+UnO39C9DLGNDF6GMKd5B2heGH\ngQOne+0qqv/EgaUpyUrDDV8zIMdAlQ+LCPZGsh4hMmTny5oXp22Yjfgam0Z2Dk43\n48cl+k1qo+cs4pZ8IVwbrxk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uwd3f@fingerspell-storage.iam.gserviceaccount.com",
+  "client_id": "113734059673155678535",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uwd3f%40fingerspell-storage.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
